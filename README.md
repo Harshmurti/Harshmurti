@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harsh Murti</h1>
 <h3 align="center">A passionate java and Full Stack Developer from India</h3>
 
+#"Hello, I'm Harsh , a final year student pursuing a degree in Computer Science with a specialization in Software Engineering. 
+I'm a quick learner and have a strong interest in learning new technologies and tools. I'm eager to start my career in software development.
+During my studies, I developed strong analytical and problem solving skills, which I believe will be an asset in any development role. I am also a team player and enjoy collaborating with others to achieve common goals.
+In my free time, I enjoy reading tech blogs and coding tutorials as well as volunteering in  community projects.
+I am open to opportunities in software development and am excited to start my career in the industry. Please feel free to reach out to me if you have any opportunity or would like to connect and discuss the industry."
+
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cdc9f911347b8fb8f066e59c387054c1b56b0c4c9343624a368ba0a5516c0ab7/68747470733a2f2f7732776562736f6c7574696f6e732e636f6d2f696d616765732f66756c6c737461636b646576656c6f7065722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmurti&label=Profile%20views&color=0e75b6&style=flat" alt="harshmurti" /> </p>
