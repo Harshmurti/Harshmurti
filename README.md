@@ -21,7 +21,7 @@ I am open to opportunities in software development and am excited to start my ca
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh murti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh murti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-murti-06040a256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh murti" height="30" width="40" /></a>
 <a href="https://instagram.com/murtiharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murtiharsh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@harshmurtivarshney7137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@harshmurtivarshney7137" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<murtihashfl>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<murtihashfl>/profile" height="30" width="40" /></a>
