@@ -31,7 +31,23 @@ I am open to opportunities in software development and am excited to start my ca
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+Here are some of the languages and tools I work with:
+
+[![HTML](https://img.shields.io/badge/HTML-Code-orange?style=flat-square&logo=html5)](https://www.w3schools.com/html/)
+[![CSS](https://img.shields.io/badge/CSS-Code-blue?style=flat-square&logo=css3)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Code-yellow?style=flat-square&logo=javascript)](https://www.javascript.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-purple?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Framework-blueviolet?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/React-Library-blue?style=flat-square&logo=react)](https://reactjs.org/)
+[![Git](https://img.shields.io/badge/Git-Code-orange?style=flat-square&logo=git)](https://git-scm.com/)
+[![Java](https://img.shields.io/badge/Java-Code-red?style=flat-square&logo=java)](https://www.java.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql)](https://www.mysql.com/)
+[![Spring](https://img.shields.io/badge/Spring-Framework-green?style=flat-square&logo=spring)](https://spring.io/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-Framework-yellow?style=flat-square&logo=hibernate)](https://hibernate.org/)
+
+These are just a few of the languages and tools I use. Feel free to ask me about any of them!
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshmurti&show_icons=true&locale=en&layout=compact" alt="harshmurti" /></p>
 
