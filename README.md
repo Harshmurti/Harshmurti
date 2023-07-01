@@ -46,6 +46,8 @@ Here are some of the languages and tools I work with:
 [![Spring](https://img.shields.io/badge/Spring-Framework-green?style=flat-square&logo=spring)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-Framework-yellow?style=flat-square&logo=hibernate)](https://hibernate.org/)
 
+
+
 These are just a few of the languages and tools I use. Feel free to ask me about any of them!
 
 
@@ -54,3 +56,5 @@ These are just a few of the languages and tools I use. Feel free to ask me about
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshmurti&show_icons=true&locale=en" alt="harshmurti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmurti&" alt="harshmurti" /></p>
+
+<h3 align="left">THANK YOU</h3>
