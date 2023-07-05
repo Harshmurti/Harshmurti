@@ -57,4 +57,4 @@ These are just a few of the languages and tools I use. Feel free to ask me about
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmurti&" alt="harshmurti" /></p>
 
-<h3 align="left">THANK YOU</h3>
+<h3 align="left">THANK YOU VERY MUCH</h3>
